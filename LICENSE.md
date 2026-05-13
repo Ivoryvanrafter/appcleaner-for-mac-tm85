@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with AppCleaner for macOS exclusive Workflow - app-uninstaller and window-management, the #1 workflow. Includes app-uninstaller and window-management
 
 
 
